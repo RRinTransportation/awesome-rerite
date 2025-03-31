@@ -30,4 +30,5 @@ A curated list of awesome open datasets and benchmarks in transportation researc
 ## Miscellaneous
 
 ---
-Maintained by [Junyi Ji](https://www.jijunyi.com/), last updated: March 31st, 2025
+Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
+Last updated: March 31st, 2025
