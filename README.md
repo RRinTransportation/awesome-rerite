@@ -5,7 +5,7 @@ A curated list of awesome open datasets and benchmarks in transportation researc
 
 - [Transportation Networks](#transportation-networks)
 - [Discrete Choice Modeling](#discrete-choice-modeling)
-- [Traffic Flow Dynamics and Control](#traffic-flow-dynamics-and-control)
+- [Traffic Dynamics and Control](#traffic-dynamics-and-control)
 - [Spatio-Temporal Data and Modeling](#spatio-temporal-data-and-modeling)
 - [Miscellaneous](#miscellaneous)
 
