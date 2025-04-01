@@ -5,7 +5,7 @@ A curated list of awesome open datasets and benchmarks in transportation researc
 
 - [Transportation Networks](#transportation-networks)
 - [Discrete Choice Modeling](#discrete-choice-modeling)
-- [Traffic Flow Theory](#traffic-flow-theory)
+- [Traffic Flow Dynamics and Control](#traffic-flow-dynamics-and-control)
 - [Spatio-Temporal Data and Modeling](#spatio-temporal-data-and-modeling)
 - [Miscellaneous](#miscellaneous)
 
@@ -22,7 +22,7 @@ A curated list of awesome open datasets and benchmarks in transportation researc
 ## Discrete Choice Modeling
 - 
 
-## Traffic Flow Theory
+## Traffic Flow Dynamics and Control
 - [TGSIM I-294](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
 
 
