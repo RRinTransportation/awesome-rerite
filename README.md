@@ -22,10 +22,14 @@ A curated list of awesome open datasets and benchmarks in transportation researc
 ## Discrete Choice Modeling
 - 
 
-## Traffic Flow Dynamics and Control
+## Traffic Dynamics and Control
+### Freeway traffic
 - [TGSIM I-294](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
 
-
+### Urban traffic
+- [pNEUMA](https://open-traffic.epfl.ch/)
+- [Intersection Zoo](https://github.com/mit-wu-lab/IntersectionZoo)
+    - [IntersectionZoo: Eco-driving for Benchmarking Multi-Agent Contextual Reinforcement Learning](https://openreview.net/forum?id=XoulHHQGFi), ICLR 2025.
 
 ## Spatio-Temporal Data and Modeling
 - [Spatiotemporal Data](https://spatiotemporal-data.github.io/)
