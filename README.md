@@ -1,6 +1,13 @@
 # awesome-rerite
 A curated list of awesome open datasets and benchmarks in transportation research.
 
+## How to Contribute?
+If you have a dataset or benchmark to contribute, you can:
+1. Open an [issue](https://github.com/RRinTransportation/awesome-rerite/issues)
+2. Submit a pull request  
+3. Contact me via [email](junyi.ji@vanderbilt.edu)
+
+Star this repository if you find it useful!
 ## Contents
 
 - [Transportation Networks](#transportation-networks)
@@ -34,8 +41,9 @@ A curated list of awesome open datasets and benchmarks in transportation researc
 ## Spatio-Temporal Data and Modeling
 - [Spatiotemporal Data](https://spatiotemporal-data.github.io/)
 
-<!-- ## Traffic Simulation -->
 
+## Optimization
+- [RL4CO](https://rl4co.readthedocs.io/en/latest/docs/content/intro/environments/)
 ## Miscellaneous
 
 ---
