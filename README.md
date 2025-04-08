@@ -35,8 +35,11 @@ Star this repository if you find it useful!
 - Songdo dataset
     - [Songdo Traffic Dataset](https://doi.org/10.5281/zenodo.13828384)
     - [Songdo Vision Dataset](https://doi.org/10.5281/zenodo.13828408)
-- [TGSIM I-294](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
 - [Waymo Open Dataset](https://waymo.com/open/)
+- [I-24 MOTION](i24motion.org/data)
+- [TGSIM I-294](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
+- [Zen Traffic Data](https://zen-traffic-data.net/english/)
+- [microSIM-ACC](https://github.com/microSIM-ACC)
 
 ### Freeway traffic control
 - [Flow-Lite](https://github.com/mit-wu-lab/automatic_vehicular_control)
