@@ -30,16 +30,25 @@ Star this repository if you find it useful!
 - 
 
 ## Traffic Dynamics and Control
-### Freeway traffic
-- [TGSIM I-294](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
-
-### Urban traffic
+### Vehicle trajectory data
 - [pNEUMA](https://open-traffic.epfl.ch/)
+- Songdo dataset
+    - [Songdo Traffic Dataset](https://doi.org/10.5281/zenodo.13828384)
+    - [Songdo Vision Dataset](https://doi.org/10.5281/zenodo.13828408)
+- [TGSIM I-294](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
+- [Waymo Open Dataset](https://waymo.com/open/)
+
+### Freeway traffic control
+- [Flow-Lite](https://github.com/mit-wu-lab/automatic_vehicular_control)
+
+### Urban traffic control
 - [Intersection Zoo](https://github.com/mit-wu-lab/IntersectionZoo)
     - [IntersectionZoo: Eco-driving for Benchmarking Multi-Agent Contextual Reinforcement Learning](https://openreview.net/forum?id=XoulHHQGFi), ICLR 2025.
 
 ## Spatio-Temporal Data and Modeling
 - [Spatiotemporal Data](https://spatiotemporal-data.github.io/)
+
+## Road Safety
 
 
 ## Optimization
