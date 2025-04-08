@@ -59,6 +59,12 @@ Star this repository if you find it useful!
 - [Intersection Zoo](https://github.com/mit-wu-lab/IntersectionZoo)
     - [IntersectionZoo: Eco-driving for Benchmarking Multi-Agent Contextual Reinforcement Learning](https://openreview.net/forum?id=XoulHHQGFi), ICLR 2025.
 
+## Traffic Simulation
+Note: It can be challenging to clearly distinguish between traffic simulation and modeling approaches like DTA. This section focuses on general-purpose traffic simulators, so there may be some overlap with items listed earlier.
+- [UXSim](https://github.com/toruseo/UXsim) developed by [Toru Seo](https://toruseo.jp/)
+- [DTALite](https://github.com/asu-trans-ai-lab/DTALite) developed by ASU Transportation AI Lab
+    - DTALite is an open-source Analysis, Modeling, and Simulation (AMS) library for efficiently macroscopic and mesoscopic traffic assignment based on General Modeling Network Specification (GMNS) format.
+
 ## Spatio-Temporal Data and Modeling
 - [Spatiotemporal Data](https://spatiotemporal-data.github.io/)
 
@@ -71,4 +77,4 @@ Star this repository if you find it useful!
 
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: March 31st, 2025
+Last updated: April 8, 2025
