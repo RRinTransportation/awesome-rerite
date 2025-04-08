@@ -13,7 +13,12 @@ Star this repository if you find it useful!
 - [Transportation Networks](#transportation-networks)
 - [Discrete Choice Modeling](#discrete-choice-modeling)
 - [Traffic Dynamics and Control](#traffic-dynamics-and-control)
+    - [Vehicle trajectory data](#vehicle-trajectory-data)
+    - [Freeway traffic control](#freeway-traffic-control)
+    - [Urban traffic control](#urban-traffic-control)
 - [Spatio-Temporal Data and Modeling](#spatio-temporal-data-and-modeling)
+- [Road Safety](#road-safety)
+- [Optimization](#optimization)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -27,7 +32,8 @@ Star this repository if you find it useful!
     - [A Large-scale Dataset and Benchmark for Commuting Origin-Destination Flow Generation](https://openreview.net/forum?id=WeJEidTzff), ICLR 2025.
 
 ## Discrete Choice Modeling
-- 
+- [Choice-Learn](https://github.com/artefactory/choice-learn)
+    - Discrete choice modeling in Python with large datasets and models
 
 ## Traffic Dynamics and Control
 ### Vehicle trajectory data
@@ -39,6 +45,7 @@ Star this repository if you find it useful!
 - [I-24 MOTION](i24motion.org/data)
 - [TGSIM I-294](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
 - [Zen Traffic Data](https://zen-traffic-data.net/english/)
+- [OpenACC](https://data.jrc.ec.europa.eu/dataset/9702c950-c80f-4d2f-982f-44d06ea0009f)
 - [microSIM-ACC](https://github.com/microSIM-ACC)
 
 ### Freeway traffic control
