@@ -25,6 +25,8 @@ Star this repository if you find it useful!
 ## Transportation Networks
 - [Transportation Networks](https://github.com/bstabler/TransportationNetworks) by Ben Stabler
     - Fundamental city network data for transportation network modeling.
+- [DTALite](https://github.com/asu-trans-ai-lab/DTALite) developed by ASU Transportation AI Lab
+    - DTALite is an open-source Analysis, Modeling, and Simulation (AMS) library for efficiently macroscopic and mesoscopic traffic assignment based on General Modeling Network Specification (GMNS) format.
 - [MATSim Scenarios](https://github.com/matsim-scenarios)
 - [WardropNet](https://github.com/tumBAIS/ML-CO-pipeline-TrafficPrediction)
     - [WardropNet: Traffic Flow Predictions via Equilibrium-Augmented Learning](https://openreview.net/forum?id=7FHSPd3SRE), ICLR 2025.
@@ -50,6 +52,8 @@ Star this repository if you find it useful!
 
 ### Freeway traffic control
 - [Flow-Lite](https://github.com/mit-wu-lab/automatic_vehicular_control)
+    - Lite version of [Flow](https://flow-project.github.io) with its [project repo here](http://github.com/flow-project/flow).
+    - Flow-lite is more lightweighted and better suited for research purposes, as it does not include RLlib integration.
 
 ### Urban traffic control
 - [Intersection Zoo](https://github.com/mit-wu-lab/IntersectionZoo)
