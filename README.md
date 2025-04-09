@@ -69,12 +69,17 @@ Note: It can be challenging to clearly distinguish between traffic simulation an
 - [Spatiotemporal Data](https://spatiotemporal-data.github.io/)
 
 ## Road Safety
-
+- [Surrogate Safety Measures](https://github.com/Yiru-Jiao/SSMsOnPlane), contributed by [Yiru Jiao](https://github.com/Yiru-Jiao)
 
 ## Optimization
 - [RL4CO](https://rl4co.readthedocs.io/en/latest/docs/content/intro/environments/)
+
 ## Miscellaneous
+This section highlights useful tools and resources that can assist in advancing daily research efforts:
+- [Optuna](https://optuna.org/)
+    - Optuna is an automatic hyperparameter optimization python framework, particularly designed for machine learning. 
+    - Note: This is a tool suggested by [Alex Richardson](https://scholar.google.com/citations?user=BB-pmW0AAAAJ&hl=en) at Vanderbilt University. Thank you, Alex!
 
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: April 8, 2025
+Last updated: April 9, 2025
