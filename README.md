@@ -50,6 +50,9 @@ Star this repository if you find it useful!
 - [OpenACC](https://data.jrc.ec.europa.eu/dataset/9702c950-c80f-4d2f-982f-44d06ea0009f)
 - [microSIM-ACC](https://github.com/microSIM-ACC)
 
+### Legacy experimental data
+- [The Arizona Ring Experiments Dataset (ARED)](https://ir.vanderbilt.edu/items/2e6f1c05-0174-4abd-b71c-e7e40eae0ce3)
+
 ### Freeway traffic control
 - [Flow-Lite](https://github.com/mit-wu-lab/automatic_vehicular_control)
     - Lite version of [Flow](https://flow-project.github.io) with its [project repo here](http://github.com/flow-project/flow).
