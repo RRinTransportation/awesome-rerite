@@ -34,10 +34,18 @@ Star this repository if you find it useful!
     - [A Large-scale Dataset and Benchmark for Commuting Origin-Destination Flow Generation](https://openreview.net/forum?id=WeJEidTzff), ICLR 2025.
 
 ## Discrete Choice Modeling
+
+### Benchmarks
 - [Choice-Learn](https://github.com/artefactory/choice-learn)
     - Discrete choice modeling in Python with large datasets and models
 - [DNN for choice modeling](https://github.com/siqi-feng/DNN-behavioral-regularity)
     - Ascoicated with TR-C paper [Deep neural networks for choice analysis: Enhancing behavioral regularity with gradient regularization](https://arxiv.org/abs/2404.14701)
+- [Apollo](https://www.apollochoicemodelling.com/examples.html)
+    - Hess, S. & Palma, D. (2019), Apollo: a flexible, powerful and customisable freeware package for choice model estimation and application, Journal of Choice Modelling, Volume 32, September 2019, 100170. Link to the homepage: [Apollo](https://www.apollochoicemodelling.com/code.html).
+    - Choice modeling in general, suggested by [Siqi Feng](https://daziano.cee.cornell.edu/members/). Thank you, Siqi!
+
+### Datasets
+- [Swissmetro](https://transp-or.epfl.ch/pythonbiogeme/examples_swissmetro.html), suggested by [Siqi Feng](https://daziano.cee.cornell.edu/members/). Thank you, Siqi!
 
 ## Traffic Dynamics and Control
 ### Vehicle trajectory data
