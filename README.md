@@ -19,6 +19,7 @@ Star this repository if you find it useful!
 - [Spatio-Temporal Data and Modeling](#spatio-temporal-data-and-modeling)
 - [Road Safety](#road-safety)
 - [Optimization](#optimization)
+- [Transportation and AI](#transportation-and-ai)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -86,6 +87,10 @@ Note: It can be challenging to clearly distinguish between traffic simulation an
 
 ## Optimization
 - [RL4CO](https://rl4co.readthedocs.io/en/latest/docs/content/intro/environments/)
+
+## Transportation and AI
+- [DGMinTransportation](https://github.com/UMN-Choi-Lab/DGMinTransportation) by [UMN-Choi-Lab](https://choi-seongjin.github.io/index.html)
+    - Asscociated with paper [A Gentle Introduction and Tutorial on Deep Generative Models in Transportation Research](https://arxiv.org/abs/2410.07066).
 
 ## Miscellaneous
 This section highlights useful tools and resources that can assist in advancing daily research efforts:
