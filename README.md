@@ -36,6 +36,8 @@ Star this repository if you find it useful!
 ## Discrete Choice Modeling
 - [Choice-Learn](https://github.com/artefactory/choice-learn)
     - Discrete choice modeling in Python with large datasets and models
+- [DNN for choice modeling](https://github.com/siqi-feng/DNN-behavioral-regularity)
+    - Ascoicated with TR-C paper [Deep neural networks for choice analysis: Enhancing behavioral regularity with gradient regularization](https://arxiv.org/abs/2404.14701)
 
 ## Traffic Dynamics and Control
 ### Vehicle trajectory data
@@ -85,4 +87,4 @@ This section highlights useful tools and resources that can assist in advancing 
 
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: April 9, 2025
+Last updated: April 10, 2025
