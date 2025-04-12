@@ -29,6 +29,8 @@ Star this repository if you find it useful!
 - [DTALite](https://github.com/asu-trans-ai-lab/DTALite) developed by ASU Transportation AI Lab
     - DTALite is an open-source Analysis, Modeling, and Simulation (AMS) library for efficiently macroscopic and mesoscopic traffic assignment based on General Modeling Network Specification (GMNS) format.
 - [MATSim Scenarios](https://github.com/matsim-scenarios)
+- [DTA](https://github.com/DrKeHan/DTA) developed by Dr. Ke Han.
+    - Han, K, Eve, G, Friesz, TL, 2019. Computing dynamic user equilibria on large-scale networks with software implementation. Networks and Spatial Economics, Volume 19, Issue 3, pp 869–902.
 - [WardropNet](https://github.com/tumBAIS/ML-CO-pipeline-TrafficPrediction)
     - [WardropNet: Traffic Flow Predictions via Equilibrium-Augmented Learning](https://openreview.net/forum?id=7FHSPd3SRE), ICLR 2025.
 - [LargeOD](https://github.com/tsinghua-fib-lab/CommutingODGen-Dataset)
@@ -81,6 +83,15 @@ Note: It can be challenging to clearly distinguish between traffic simulation an
 - [DTALite](https://github.com/asu-trans-ai-lab/DTALite) developed by ASU Transportation AI Lab
     - DTALite is an open-source Analysis, Modeling, and Simulation (AMS) library for efficiently macroscopic and mesoscopic traffic assignment based on General Modeling Network Specification (GMNS) format.
 
+## Prediction and Forecasting
+It is a hot topic in the last decade! There're few lists curated by the community already.
+
+### Existing lists
+- [Deep learning models for traffic prediction](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary) by [Jiawei Jiang](https://github.com/aptx1231)
+
+### Open Benchmarks
+- [LibCity](https://libcity.ai/)
+
 ## Spatio-Temporal Data and Modeling
 - [Spatiotemporal Data](https://spatiotemporal-data.github.io/)
 
@@ -102,6 +113,7 @@ This section highlights useful tools and resources that can assist in advancing 
 - [Optuna](https://optuna.org/)
     - Optuna is an automatic hyperparameter optimization python framework, particularly designed for machine learning. 
     - Note: This is a tool suggested by [Alex Richardson](https://scholar.google.com/citations?user=BB-pmW0AAAAJ&hl=en) at Vanderbilt University. Thank you, Alex!
+- Want to visuliaze how you move in your city? [Here we go!](https://github.com/mikhailsirenko/osmnx-matplotlib-animation)
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
 Last updated: April 10, 2025
