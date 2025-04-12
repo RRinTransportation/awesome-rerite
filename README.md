@@ -55,13 +55,15 @@ Star this repository if you find it useful!
     - [Songdo Traffic Dataset](https://doi.org/10.5281/zenodo.13828384)
     - [Songdo Vision Dataset](https://doi.org/10.5281/zenodo.13828408)
 - [Waymo Open Dataset](https://waymo.com/open/)
-- [I-24 MOTION](i24motion.org/data)
+- [I-24 MOTION](https://i24motion.org/data)
 - [TGSIM I-294](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
 - [Zen Traffic Data](https://zen-traffic-data.net/english/)
 - [OpenACC](https://data.jrc.ec.europa.eu/dataset/9702c950-c80f-4d2f-982f-44d06ea0009f)
 - [microSIM-ACC](https://github.com/microSIM-ACC)
 
-### Legacy experimental data
+### [The Lord of the Rings](https://dl.acm.org/doi/10.1145/3494577)
+- [The Nagoya Traffic Jam Experiment](https://github.com/mathematical-society-of-traffic-flow/mathematical-society-of-traffic-flow.github.io/raw/refs/heads/main/assets/data/data.zip)
+- [The Dome Traffic Jam Experiment](https://github.com/mathematical-society-of-traffic-flow/mathematical-society-of-traffic-flow.github.io/raw/refs/heads/main/assets/data/trajectory.zip)
 - [The Arizona Ring Experiments Dataset (ARED)](https://ir.vanderbilt.edu/items/2e6f1c05-0174-4abd-b71c-e7e40eae0ce3)
 
 ### Freeway traffic control
@@ -92,12 +94,14 @@ Note: It can be challenging to clearly distinguish between traffic simulation an
 - [DGMinTransportation](https://github.com/UMN-Choi-Lab/DGMinTransportation) by [UMN-Choi-Lab](https://choi-seongjin.github.io/index.html)
     - Asscociated with paper [A Gentle Introduction and Tutorial on Deep Generative Models in Transportation Research](https://arxiv.org/abs/2410.07066).
 
+## Data Standards in Transportation
+- [GTFS and more](https://github.com/MobilityData/awesome-transit)
+
 ## Miscellaneous
 This section highlights useful tools and resources that can assist in advancing daily research efforts:
 - [Optuna](https://optuna.org/)
     - Optuna is an automatic hyperparameter optimization python framework, particularly designed for machine learning. 
     - Note: This is a tool suggested by [Alex Richardson](https://scholar.google.com/citations?user=BB-pmW0AAAAJ&hl=en) at Vanderbilt University. Thank you, Alex!
-
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
 Last updated: April 10, 2025
