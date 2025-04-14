@@ -22,8 +22,9 @@ Star this repository if you find it useful!
 - [Transportation and AI](#transportation-and-ai)
 - [Miscellaneous](#miscellaneous)
 
-## Transportation Networks
-
+## Transportation Demand and Network Modeling
+- [Travel Forecasting, Explained
+](https://tfresource.org/), a big shoutout to [Greg Macfarlane, Ph.D.](https://gregmacfarlane.github.io/)
 - [Transportation Networks](https://github.com/bstabler/TransportationNetworks) by Ben Stabler
     - Fundamental city network data for transportation network modeling.
 - [OSMnx](https://osmnx.readthedocs.io/en/stable/), developed by [Geoff Boeing](https://geoffboeing.com/)
