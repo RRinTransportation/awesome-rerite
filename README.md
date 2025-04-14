@@ -22,10 +22,12 @@ Star this repository if you find it useful!
 - [Transportation and AI](#transportation-and-ai)
 - [Miscellaneous](#miscellaneous)
 
-
 ## Transportation Networks
+
 - [Transportation Networks](https://github.com/bstabler/TransportationNetworks) by Ben Stabler
     - Fundamental city network data for transportation network modeling.
+- [OSMnx](https://osmnx.readthedocs.io/en/stable/), developed by [Geoff Boeing](https://geoffboeing.com/)
+    - Zephyr Foundation’s 2025 Exceptional Technical Achievement Award!
 - [DTALite](https://github.com/asu-trans-ai-lab/DTALite) developed by ASU Transportation AI Lab
     - DTALite is an open-source Analysis, Modeling, and Simulation (AMS) library for efficiently macroscopic and mesoscopic traffic assignment based on General Modeling Network Specification (GMNS) format.
 - [MATSim Scenarios](https://github.com/matsim-scenarios)
@@ -116,4 +118,4 @@ This section highlights useful tools and resources that can assist in advancing 
 - Want to visuliaze how you move in your city? [Here we go!](https://github.com/mikhailsirenko/osmnx-matplotlib-animation)
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: April 10, 2025
+Last updated: April 14, 2025
