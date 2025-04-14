@@ -86,15 +86,6 @@ Note: It can be challenging to clearly distinguish between traffic simulation an
 - [DTALite](https://github.com/asu-trans-ai-lab/DTALite) developed by ASU Transportation AI Lab
     - DTALite is an open-source Analysis, Modeling, and Simulation (AMS) library for efficiently macroscopic and mesoscopic traffic assignment based on General Modeling Network Specification (GMNS) format.
 
-## Prediction and Forecasting
-It is a hot topic in the last decade! There're few lists curated by the community already.
-
-### Existing lists
-- [Deep learning models for traffic prediction](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary) by [Jiawei Jiang](https://github.com/aptx1231)
-
-### Open Benchmarks
-- [LibCity](https://libcity.ai/)
-
 ## Spatio-Temporal Data and Modeling
 - [Spatiotemporal Data](https://spatiotemporal-data.github.io/)
 
@@ -105,8 +96,18 @@ It is a hot topic in the last decade! There're few lists curated by the communit
 - [RL4CO](https://rl4co.readthedocs.io/en/latest/docs/content/intro/environments/)
 
 ## Transportation and AI
+
 - [DGMinTransportation](https://github.com/UMN-Choi-Lab/DGMinTransportation) by [UMN-Choi-Lab](https://choi-seongjin.github.io/index.html)
     - Asscociated with paper [A Gentle Introduction and Tutorial on Deep Generative Models in Transportation Research](https://arxiv.org/abs/2410.07066).
+
+### Traffic Prediction via Deep Learning
+It is a hot topic in the last decade! There're few lists curated by the community already.
+
+#### Existing lists
+- [Deep learning models for traffic prediction](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary) by [Jiawei Jiang](https://github.com/aptx1231)
+
+#### Open Benchmarks
+- [LibCity](https://libcity.ai/)
 
 ## Data Standards in Transportation
 - [GTFS and more](https://github.com/MobilityData/awesome-transit)
