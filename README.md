@@ -29,6 +29,9 @@ Star this repository if you find it useful!
     - Fundamental city network data for transportation network modeling.
 - [OSMnx](https://osmnx.readthedocs.io/en/stable/), developed by [Geoff Boeing](https://geoffboeing.com/)
     - Zephyr Foundation’s 2025 Exceptional Technical Achievement Award!
+- [osm2gmns](https://pypi.org/project/osm2gmns/1.0.0rc1/)
+    - Developed by Jiawei Lu, Xuesong (Simon) Zhou.
+    - A Python package for converting OpenStreetMap (OSM) data to Generalized Modeling Network Specification (GMNS) format.
 - [DTALite](https://github.com/asu-trans-ai-lab/DTALite) developed by ASU Transportation AI Lab
     - DTALite is an open-source Analysis, Modeling, and Simulation (AMS) library for efficiently macroscopic and mesoscopic traffic assignment based on General Modeling Network Specification (GMNS) format.
 - [MATSim Scenarios](https://github.com/matsim-scenarios)
