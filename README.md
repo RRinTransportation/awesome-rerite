@@ -37,6 +37,9 @@ Star this repository if you find it useful!
 - [MATSim Scenarios](https://github.com/matsim-scenarios)
 - [DTA](https://github.com/DrKeHan/DTA) developed by Dr. Ke Han.
     - Han, K, Eve, G, Friesz, TL, 2019. Computing dynamic user equilibria on large-scale networks with software implementation. Networks and Spatial Economics, Volume 19, Issue 3, pp 869–902.
+- [UniTA](https://github.com/xuxiaotong/A_unified_and_validated_traffic_dataset_for_20_U.S._cities)
+    - A unified dataset for the city-scale traffic assignment model in 20 U.S. cities.
+    - Note: I give it a short name "UniTA" for easy reference. If the authors see this and have a better name, please let me know!
 - [WardropNet](https://github.com/tumBAIS/ML-CO-pipeline-TrafficPrediction)
     - [WardropNet: Traffic Flow Predictions via Equilibrium-Augmented Learning](https://openreview.net/forum?id=7FHSPd3SRE), ICLR 2025.
 - [LargeOD](https://github.com/tsinghua-fib-lab/CommutingODGen-Dataset)
@@ -123,4 +126,4 @@ This section highlights useful tools and resources that can assist in advancing 
 - Want to visuliaze how you move in your city? [Here we go!](https://github.com/mikhailsirenko/osmnx-matplotlib-animation)
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: April 14, 2025
+Last updated: April 23, 2025
