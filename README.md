@@ -44,7 +44,8 @@ Star this repository if you find it useful!
     - [WardropNet: Traffic Flow Predictions via Equilibrium-Augmented Learning](https://openreview.net/forum?id=7FHSPd3SRE), ICLR 2025.
 - [LargeOD](https://github.com/tsinghua-fib-lab/CommutingODGen-Dataset)
     - [A Large-scale Dataset and Benchmark for Commuting Origin-Destination Flow Generation](https://openreview.net/forum?id=WeJEidTzff), ICLR 2025.
-
+- [OSRM](https://project-osrm.org/)
+    - Open Source Routing Machine (OSRM) is a high-performance routing engine written in C++14.
 ## Discrete Choice Modeling
 
 ### Benchmarks
