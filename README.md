@@ -119,6 +119,11 @@ It is a hot topic in the last decade! There're few lists curated by the communit
 ## Data Standards in Transportation
 - [GTFS and more](https://github.com/MobilityData/awesome-transit)
 
+
+# Notable Figures in Transportation
+- [Dietrich Braess](https://homepage.ruhr-uni-bochum.de/dietrich.braess/#paradox)
+    - Braess's Paradox: Adding a road to a network can increase travel time for all users.
+
 ## Miscellaneous
 This section highlights useful tools and resources that can assist in advancing daily research efforts:
 - [Optuna](https://optuna.org/)
@@ -127,4 +132,4 @@ This section highlights useful tools and resources that can assist in advancing 
 - Want to visuliaze how you move in your city? [Here we go!](https://github.com/mikhailsirenko/osmnx-matplotlib-animation)
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: April 23, 2025
+Last updated: May 2, 2025
