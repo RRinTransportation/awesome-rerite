@@ -99,6 +99,11 @@ Note: It can be challenging to clearly distinguish between traffic simulation an
 ## Road Safety
 - [Surrogate Safety Measures](https://github.com/Yiru-Jiao/SSMsOnPlane), contributed by [Yiru Jiao](https://github.com/Yiru-Jiao)
 
+## Mobility Services
+- [FleetPy](https://github.com/TUM-VT/FleetPy)
+    - Open-Source Fleet Simulation Framework
+    - Note: I'm not an expert in this direction but from the README it enables 7 projects! Feel free to comment if you have any suggestions!
+
 ## Optimization
 - [RL4CO](https://rl4co.readthedocs.io/en/latest/docs/content/intro/environments/)
 
@@ -130,6 +135,7 @@ This section highlights useful tools and resources that can assist in advancing 
     - Optuna is an automatic hyperparameter optimization python framework, particularly designed for machine learning. 
     - Note: This is a tool suggested by [Alex Richardson](https://scholar.google.com/citations?user=BB-pmW0AAAAJ&hl=en) at Vanderbilt University. Thank you, Alex!
 - Want to visuliaze how you move in your city? [Here we go!](https://github.com/mikhailsirenko/osmnx-matplotlib-animation)
+- Super cool visualization of regional flow data: [Edge-bundling tool for regional mobility flow data](https://zenodo.org/records/14532548).
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
 Last updated: May 2, 2025
