@@ -92,6 +92,8 @@ Note: It can be challenging to clearly distinguish between traffic simulation an
 - [UXSim](https://github.com/toruseo/UXsim) developed by [Toru Seo](https://toruseo.jp/)
 - [DTALite](https://github.com/asu-trans-ai-lab/DTALite) developed by ASU Transportation AI Lab
     - DTALite is an open-source Analysis, Modeling, and Simulation (AMS) library for efficiently macroscopic and mesoscopic traffic assignment based on General Modeling Network Specification (GMNS) format.
+- [Sym-METANET](https://github.com/FilippoAiraldi/sym-metanet) developed by [Filippo Airaldi]
+    - sym-metanet is a Python package to model traffic networks with the METANET framework, a collection of tools to mathematically model the macroscopic behaviour of traffic in highway systems
 
 ## Spatio-Temporal Data and Modeling
 - [Spatiotemporal Data](https://spatiotemporal-data.github.io/)
@@ -138,4 +140,4 @@ This section highlights useful tools and resources that can assist in advancing 
 - Super cool visualization of regional flow data: [Edge-bundling tool for regional mobility flow data](https://zenodo.org/records/14532548).
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: May 2, 2025
+Last updated: May 26, 2025
