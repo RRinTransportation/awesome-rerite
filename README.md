@@ -42,6 +42,8 @@ Star this repository if you find it useful!
     - Note: I give it a short name "UniTA" for easy reference. If the authors see this and have a better name, please let me know!
 - [WardropNet](https://github.com/tumBAIS/ML-CO-pipeline-TrafficPrediction)
     - [WardropNet: Traffic Flow Predictions via Equilibrium-Augmented Learning](https://openreview.net/forum?id=7FHSPd3SRE), ICLR 2025.
+- [Equilibrium-Traffic-Networks](https://figshare.com/articles/dataset/_b_Equilibrium-Traffic-Networks_b_/27889251)
+    - [Datasets](https://figshare.com/articles/dataset/_b_Equilibrium-Traffic-Networks_b_/27889251) (based on the "Transportation Networks for Benchmarking") to train Graph Neural Networks (GNNs) to predict user equilibrium (UE) traffic flows on networks. These are obtained by solving thousands of instances of UE problems (convex programming with CPLEX). Based on [paper](https://doi.org/10.1016/j.eswa.2023.122814), [code](https://github.com/bahmanmdd/HDLMF_GIN-GA)
 - [LargeOD](https://github.com/tsinghua-fib-lab/CommutingODGen-Dataset)
     - [A Large-scale Dataset and Benchmark for Commuting Origin-Destination Flow Generation](https://openreview.net/forum?id=WeJEidTzff), ICLR 2025.
 - [OSRM](https://project-osrm.org/)
