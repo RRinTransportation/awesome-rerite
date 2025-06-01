@@ -100,6 +100,10 @@ Note: It can be challenging to clearly distinguish between traffic simulation an
 
 ## Road Safety
 - [Surrogate Safety Measures](https://github.com/Yiru-Jiao/SSMsOnPlane), contributed by [Yiru Jiao](https://github.com/Yiru-Jiao)
+- [SHRP2NDS-BEVTR](https://github.com/Yiru-Jiao/BirdsEyeTrajectoryReconstructionSHRP2NDS)
+    - SHRP2 NDS is abbreviated from the Second Strategic Highway Research Program’s (SHRP2) Naturalistic Driving Study (NDS).
+    - This repo and the linked dataset contain the reconstructed bird's-eye-view trajectories of vehicles in the SHRP2 NDS with labels crashes and near-crashes.
+    - Awesome work contributed by [Yiru Jiao](https://github.com/Yiru-Jiao).
 
 ## Mobility Services
 - [FleetPy](https://github.com/TUM-VT/FleetPy)
@@ -140,4 +144,4 @@ This section highlights useful tools and resources that can assist in advancing 
 - Super cool visualization of regional flow data: [Edge-bundling tool for regional mobility flow data](https://zenodo.org/records/14532548).
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: May 26, 2025
+Last updated: June 1, 2025
