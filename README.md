@@ -72,6 +72,9 @@ Star this repository if you find it useful!
     - [Songdo Vision Dataset](https://doi.org/10.5281/zenodo.13828408)
 - [Waymo Open Dataset](https://waymo.com/open/)
 - [I-24 MOTION](https://i24motion.org/data)
+- [MiTra](https://opara.zih.tu-dresden.de/items/68482417-ddc5-40ac-885a-83124bd459e8)
+    - Dataset released from TU Dresden, Germany and collected in Milan, Italy by drones.
+    - MiTra: A Drone-Based Trajectory Data for an All-Traffic-State Inclusive Freeway with Ramps.
 - [TGSIM I-294](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
 - [Zen Traffic Data](https://zen-traffic-data.net/english/)
 - [OpenACC](https://data.jrc.ec.europa.eu/dataset/9702c950-c80f-4d2f-982f-44d06ea0009f)
@@ -148,4 +151,4 @@ This section highlights useful tools and resources that can assist in advancing 
 - Super cool visualization of regional flow data: [Edge-bundling tool for regional mobility flow data](https://zenodo.org/records/14532548).
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: June 1, 2025
+Last updated: July 3, 2025.
