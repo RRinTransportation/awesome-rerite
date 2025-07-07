@@ -50,6 +50,7 @@ Star this repository if you find it useful!
     - Contributed by [Bahman Madadi](https://github.com/bahmanmdd)
 - [OSRM](https://project-osrm.org/)
     - Open Source Routing Machine (OSRM) is a high-performance routing engine written in C++14.
+
 ## Discrete Choice Modeling
 
 ### Benchmarks
@@ -138,7 +139,7 @@ It is a hot topic in the last decade! There're few lists curated by the communit
 - [GTFS and more](https://github.com/MobilityData/awesome-transit)
 
 
-# Notable Figures in Transportation
+## Notable Figures in Transportation
 - [Dietrich Braess](https://homepage.ruhr-uni-bochum.de/dietrich.braess/#paradox)
     - Braess's Paradox: Adding a road to a network can increase travel time for all users.
 
