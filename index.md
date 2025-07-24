@@ -153,5 +153,4 @@ This section highlights useful tools and resources that can assist in advancing 
 
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-
 Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }}
