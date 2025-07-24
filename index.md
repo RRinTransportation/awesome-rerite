@@ -128,8 +128,9 @@ It is a hot topic in the last decade! There're few lists curated by the communit
 #### Open Benchmarks
 - [LibCity](https://libcity.ai/)
 
-## Data Standards in Transportation
+## Data Analysis and Standards in Transportation
 - [GTFS and more](https://github.com/MobilityData/awesome-transit)
+- [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)
 
 
 ## Notable Figures in Transportation
@@ -147,4 +148,4 @@ This section highlights useful tools and resources that can assist in advancing 
 
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: July 3, 2025.
+Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }}
