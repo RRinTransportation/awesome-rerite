@@ -141,7 +141,9 @@ It is a hot topic in the last decade! There're few lists curated by the communit
 # Notable Figures in Transportation
 - [Dietrich Braess](https://homepage.ruhr-uni-bochum.de/dietrich.braess/#paradox)
     - Braess's Paradox: Adding a road to a network can increase travel time for all users.
-
+- [Markos Papageorgiou: Traffic Control — Theory and Practice](https://www.incontrolpodcast.com/1632769/episodes/17836860-ep36-markos-papageorgiou-traffic-control-theory-and-practice)
+    - [Markos Papageorgiou](http://www.dssl.tuc.gr/en/members/papageorgiou_cv.htm)
+    - [InControl Podcast Episode 36: Markos Papageorgiou - Traffic Control — Theory and Practice](https://www.incontrolpodcast.com/1632769/episodes/17836860-ep36-markos-papageorgiou-traffic-control-theory-and-practice).
 ## Miscellaneous
 This section highlights useful tools and resources that can assist in advancing daily research efforts:
 - [Optuna](https://optuna.org/)
@@ -151,4 +153,4 @@ This section highlights useful tools and resources that can assist in advancing 
 - Super cool visualization of regional flow data: [Edge-bundling tool for regional mobility flow data](https://zenodo.org/records/14532548).
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
-Last updated: July 3, 2025.
+Last updated: Septempber 15, 2025.

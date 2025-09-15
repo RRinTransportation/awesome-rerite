@@ -48,7 +48,10 @@ A curated list of awesome open datasets and benchmarks in transportation researc
     - Contributed by [Bahman Madadi](https://github.com/bahmanmdd)
 - [OSRM](https://project-osrm.org/)
     - Open Source Routing Machine (OSRM) is a high-performance routing engine written in C++14.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7679fba (Update Markos podcast)
 ## Discrete Choice Modeling
 
 ### Benchmarks
@@ -118,6 +121,7 @@ Note: It can be challenging to clearly distinguish between traffic simulation an
 
 ## Optimization
 - [RL4CO](https://rl4co.readthedocs.io/en/latest/docs/content/intro/environments/)
+<<<<<<< HEAD
 
 ## Transportation and AI
 
@@ -150,7 +154,44 @@ This section highlights useful tools and resources that can assist in advancing 
 - Want to visuliaze how you move in your city? [Here we go!](https://github.com/mikhailsirenko/osmnx-matplotlib-animation)
 - Super cool visualization of regional flow data: [Edge-bundling tool for regional mobility flow data](https://zenodo.org/records/14532548).
 
+=======
+>>>>>>> 7679fba (Update Markos podcast)
 
+## Transportation and AI
+
+- [DGMinTransportation](https://github.com/UMN-Choi-Lab/DGMinTransportation) by [UMN-Choi-Lab](https://choi-seongjin.github.io/index.html)
+    - Asscociated with paper [A Gentle Introduction and Tutorial on Deep Generative Models in Transportation Research](https://arxiv.org/abs/2410.07066).
+
+### Traffic Prediction via Deep Learning
+It is a hot topic in the last decade! There're few lists curated by the community already.
+
+#### Existing lists
+- [Deep learning models for traffic prediction](https://github.com/aptx1231/Traffic-Prediction-Open-Code-Summary) by [Jiawei Jiang](https://github.com/aptx1231)
+
+#### Open Benchmarks
+- [LibCity](https://libcity.ai/)
+
+## Data Standards in Transportation
+- [GTFS and more](https://github.com/MobilityData/awesome-transit)
+
+
+# Notable Figures in Transportation
+- [Dietrich Braess](https://homepage.ruhr-uni-bochum.de/dietrich.braess/#paradox)
+    - Braess's Paradox: Adding a road to a network can increase travel time for all users.
+- [Markos Papageorgiou: Traffic Control — Theory and Practice](https://www.incontrolpodcast.com/1632769/episodes/17836860-ep36-markos-papageorgiou-traffic-control-theory-and-practice)
+    - [Markos Papageorgiou](http://www.dssl.tuc.gr/en/members/papageorgiou_cv.htm)
+    - [InControl Podcast Episode 36: Markos Papageorgiou - Traffic Control — Theory and Practice](https://www.incontrolpodcast.com/1632769/episodes/17836860-ep36-markos-papageorgiou-traffic-control-theory-and-practice).
+## Miscellaneous
+This section highlights useful tools and resources that can assist in advancing daily research efforts:
+- [Optuna](https://optuna.org/)
+    - Optuna is an automatic hyperparameter optimization python framework, particularly designed for machine learning. 
+    - Note: This is a tool suggested by [Alex Richardson](https://scholar.google.com/citations?user=BB-pmW0AAAAJ&hl=en) at Vanderbilt University. Thank you, Alex!
+- Want to visuliaze how you move in your city? [Here we go!](https://github.com/mikhailsirenko/osmnx-matplotlib-animation)
+- Super cool visualization of regional flow data: [Edge-bundling tool for regional mobility flow data](https://zenodo.org/records/14532548).
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
+<<<<<<< HEAD
 Last updated: {{ page.last_modified_at | date: "%B %-d, %Y" }}
+=======
+Last updated: Septempber 15, 2025.
+>>>>>>> 7679fba (Update Markos podcast)
