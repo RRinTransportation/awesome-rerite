@@ -151,6 +151,7 @@ This section highlights useful tools and resources that can assist in advancing 
     - Note: This is a tool suggested by [Alex Richardson](https://scholar.google.com/citations?user=BB-pmW0AAAAJ&hl=en) at Vanderbilt University. Thank you, Alex!
 - Want to visuliaze how you move in your city? [Here we go!](https://github.com/mikhailsirenko/osmnx-matplotlib-animation)
 - Super cool visualization of regional flow data: [Edge-bundling tool for regional mobility flow data](https://zenodo.org/records/14532548).
+
 ---
 Maintained by [Junyi Ji](https://www.jijunyi.com/), Views are my own.
 Last updated: Septempber 15, 2025.
