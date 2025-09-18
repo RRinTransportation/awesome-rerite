@@ -8,6 +8,7 @@ If you have a dataset or benchmark to contribute, you can:
 3. Contact me via [email](junyi.ji@vanderbilt.edu)
 
 Star this repository if you find it useful!
+
 ## Contents
 
 - [Transportation Networks](#transportation-networks)
@@ -66,6 +67,7 @@ Star this repository if you find it useful!
 - [Swissmetro](https://transp-or.epfl.ch/pythonbiogeme/examples_swissmetro.html), suggested by [Siqi Feng](https://daziano.cee.cornell.edu/members/). Thank you, Siqi!
 
 ## Traffic Dynamics and Control
+
 ### Vehicle trajectory data
 - [pNEUMA](https://open-traffic.epfl.ch/)
 - Songdo dataset
@@ -145,6 +147,7 @@ It is a hot topic in the last decade! There're few lists curated by the communit
 - [Markos Papageorgiou: Traffic Control — Theory and Practice](https://www.incontrolpodcast.com/1632769/episodes/17836860-ep36-markos-papageorgiou-traffic-control-theory-and-practice)
     - [Markos Papageorgiou](http://www.dssl.tuc.gr/en/members/papageorgiou_cv.htm)
     - [InControl Podcast Episode 36: Markos Papageorgiou - Traffic Control — Theory and Practice](https://www.incontrolpodcast.com/1632769/episodes/17836860-ep36-markos-papageorgiou-traffic-control-theory-and-practice).
+
 ## Miscellaneous
 This section highlights useful tools and resources that can assist in advancing daily research efforts:
 - [Optuna](https://optuna.org/)
