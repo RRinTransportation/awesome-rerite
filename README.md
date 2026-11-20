@@ -68,8 +68,9 @@ Star this repository if you find it useful!
 ### Vehicle trajectory data
 - [pNEUMA](https://open-traffic.epfl.ch/)
 - Songdo dataset
-    - [Songdo Traffic Dataset](https://doi.org/10.5281/zenodo.13828384)
-    - [Songdo Vision Dataset](https://doi.org/10.5281/zenodo.13828408)
+    - [Songdo Traffic Dataset](https://doi.org/10.5281/zenodo.13828383)
+    - [Songdo Vision Dataset](https://doi.org/10.5281/zenodo.13828407)
+    - [Songdo Vision OBB Dataset](https://doi.org/10.5281/zenodo.15050577)
 - [Waymo Open Dataset](https://waymo.com/open/)
 - [I-24 MOTION](https://i24motion.org/data)
 - [MiTra](https://opara.zih.tu-dresden.de/items/68482417-ddc5-40ac-885a-83124bd459e8)
